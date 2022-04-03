@@ -7,17 +7,15 @@ app=Flask(__name__)
 
 contacts=[
     {
-        "id":1,
-        "title":"study",
-        "description":"study of maths",
-        "done":False
+        "number":9987644456,
+        "name":"Raju",
+        "done":"False",
 
     },
     {
-        "id":2,
-        "title":"studyscience",
-        "description":"study of science",
-        "done":False
+        "number":99876544456,
+        "name":"haran",
+        "done":"False",
 
     }
 ]
